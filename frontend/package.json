@@ -1,0 +1,45 @@
+{
+  "name": "mern-stack-frontend",
+  "version": "1.0.0",
+  "description": "Web-to-MCP Frontend - MERN Stack Project by Shreyansh Arora (24bcs10252)",
+  "type": "module",
+  "scripts": {
+    "dev": "react-router dev",
+    "build": "react-router build",
+    "start": "react-router-serve ./build/server/index.js",
+    "typecheck": "tsc",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "react-router-serve ./build/server/index.js",
+    "deploy": "npm run build && npx gh-pages -d build/client"
+  },
+  "dependencies": {
+    "@radix-ui/react-avatar": "^1.1.10",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@radix-ui/react-toast": "^1.2.15",
+    "@react-router/dev": "7.9.5-pre.0",
+    "@react-router/node": "7.9.5-pre.0",
+    "@react-router/serve": "7.9.5-pre.0",
+    "@sentry/react": "^10.22.0",
+    "@tailwindcss/vite": "^4.1.16",
+    "axios": "^1.12.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "isbot": "^5",
+    "lucide-react": "^0.548.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router": "7.9.5-pre.0",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^4.1.16"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "eslint": "^9.0.0",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.14",
+    "gh-pages": "^6.1.1",
+    "typescript": "^5.6.3"
+  },
+  "homepage": "https://shreyhac.github.io/MERN-STACK-PROJECT"
+}
