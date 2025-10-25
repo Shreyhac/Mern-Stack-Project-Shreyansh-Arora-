@@ -6,7 +6,7 @@ Bridge the gap between design and code. Send pixel-perfect website components di
 
 **This is a fully functional, deployed product that is currently available on the Chrome Web Store!** 
 
-This project was originally developed by **Shreyansh Arora** and his colleague in their office as a commercial product. The extension is actively being sold and used by developers worldwide. For demonstration and testing purposes, the Stripe payment integration and commercial features have been removed from this codebase, but you can test the full functionality using the development setup below.
+This project was originally developed by **Shreyansh Arora** as a fun side project that has been successfully monetized. The extension is actively being sold and used by developers worldwide. For demonstration and testing purposes, the Stripe payment integration and commercial features have been removed from this codebase, but you can test the full functionality using the development setup below.
 
 **🌐 Try the Live Extension**: [Web to MCP - Chrome Web Store](https://chromewebstore.google.com/detail/web-to-mcp-import-any-web/hbnhkfkblpgjlfonnikijlofeiabolmi)
 
@@ -60,7 +60,7 @@ This project was originally developed by **Shreyansh Arora** and his colleague i
 **Email**: shreyansh.24bcs10252@sst.scaler.com  
 **GitHub**: [shreyhac](https://github.com/shreyhac)
 
-**Business Context**: This project was developed as a commercial product in an office environment and is currently being sold on the Chrome Web Store. The extension has achieved significant success with 1,000+ active users and a 4.6/5 rating. The codebase has been modified for demonstration purposes with payment features removed.
+**Business Context**: This project was developed as a fun side project that has been successfully monetized on the Chrome Web Store. The extension has achieved significant success with 1,000+ active users and a 4.6/5 rating. The codebase has been modified for demonstration purposes with payment features removed.
 
 
 
